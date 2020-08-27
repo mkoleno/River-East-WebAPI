@@ -5,5 +5,9 @@
     <RootNamespace>River_East_WebAPI</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
 
 </Project>
